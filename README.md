@@ -1,6 +1,7 @@
 # Github-Analyzer
 
-# LIVE DEMO : https://v0-github-profile-summary.vercel.app/
+# LIVE DEMO : 
+https://v0-github-profile-summary.vercel.app/
 
 🚀 GitHub Analyzer
 A lightweight, language-agnostic utility that scans GitHub repositories and generates actionable insights.
